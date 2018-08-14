@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Wexcode/server.svg?branch=travis-ci)](https://travis-ci.org/Wexcode/server)
+
 # Personal Server
 
 ## Terraform

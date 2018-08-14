@@ -1,0 +1,10 @@
+sudo: required
+language: node_js
+node_js:
+  - 'node'
+  - 10
+services:
+  'docker'
+
+script:
+  cd nginx-server && docker build -t test .
